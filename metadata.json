@@ -1,0 +1,8 @@
+{
+  "name": "Lumina AI Visualizer",
+  "description": "A cutting-edge one-page landing site for an AI-powered architectural and conceptual design studio, featuring real-time image generation and intelligent design analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
